@@ -1,3 +1,3 @@
-# Portfolio_infosys.git
+# Project_Infosys.git
 My portfolio
 
